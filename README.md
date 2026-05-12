@@ -42,31 +42,6 @@ I enjoy solving engineering problems around performance, backend architecture, a
 
 ---
 
-# Featured Projects
-
-## Metriflow — Event-Driven Analytics Pipeline
-
-A high-throughput web analytics ETL pipeline designed to process and aggregate large-scale event data through asynchronous worker stages.
-
-### Highlights
-
-- Processed **26M+ records in under 3 minutes**
-- Built a staged aggregation pipeline using **RabbitMQ** and **Background Services**
-- Optimized ingestion using:
-  - `SqlBulkCopy`
-  - streaming JSON deserialization
-  - Producer–Consumer channels
-- Improved analytical query performance using:
-  - columnstore indexes
-  - stored procedures
-  - workload-specific ADO.NET + EF Core usage
-- Handled late-arriving and duplicate events through aggregate recomputation strategies
-- Containerized the full system with Docker Compose
-
-🔗 Repository: [Metriflow](https://github.com/mustaphaAlaa/Metriflow)
-
----
-
 # Professional Experience
 
 ## 🛒 Kemet — E-Commerce Fulfillment Platform
@@ -94,7 +69,30 @@ Production-ready e-commerce platform designed to replace manual spreadsheet-base
 
 ---
 
-# Personal Projects
+# Featured Projects
+
+## Metriflow — Event-Driven Analytics Pipeline
+
+A high-throughput web analytics ETL pipeline designed to process and aggregate large-scale event data through asynchronous worker stages.
+
+### Highlights
+
+- Processed **26M+ records in under 3 minutes**
+- Built a staged aggregation pipeline using **RabbitMQ** and **Background Services**
+- Optimized ingestion using:
+  - `SqlBulkCopy`
+  - streaming JSON deserialization
+  - Producer–Consumer channels
+- Improved analytical query performance using:
+  - columnstore indexes
+  - stored procedures
+  - workload-specific ADO.NET + EF Core usage
+- Handled late-arriving and duplicate events through aggregate recomputation strategies
+- Containerized the full system with Docker Compose
+
+🔗 Repository: [Metriflow](https://github.com/mustaphaAlaa/Metriflow)
+
+---
 
 ## ⚡ Hyper JSON Generator
 
@@ -160,10 +158,19 @@ I’m especially interested in:
 
 # Open To
 
+I'm open to any software engineering role where the work is meaningful and the team cares about doing things properly — full-time, freelance, or contract, remote or Egypt-based.
+
 - Backend Engineering Roles
 - .NET Development Opportunities
+- Fullstack Development
 - Scalable Systems & Data Platform Projects
 - Open Source Collaboration
 - Challenging Engineering Problems
 
+
 Thanks for visiting my profile.
+
+
+
+
+
