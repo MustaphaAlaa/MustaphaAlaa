@@ -34,7 +34,7 @@ I enjoy solving engineering problems around performance, backend architecture, a
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://camo.githubusercontent.com/88c2c03b5a6320631e0f2e213a308a2e9735ed824df888a196221241e78db1a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e644353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465) ![Tanstack](https://img.shields.io/badge/TanStack-000000.svg?style=for-the-badge&logo=TanStack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white) ![TailwindCSS](https://camo.githubusercontent.com/88c2c03b5a6320631e0f2e213a308a2e9735ed824df888a196221241e78db1a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e644353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465) ![Tanstack](https://img.shields.io/badge/TanStack-000000.svg?style=for-the-badge&logo=TanStack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ### DevOps & Tools
 
